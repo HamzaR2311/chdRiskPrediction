@@ -1,4 +1,3 @@
-sklearn
 scikit-learn
 pandas
 numpy
